@@ -1,0 +1,17 @@
+{
+    "name": "tutophp/david",
+    "description": "david",
+    "autoload": {
+        "psr-4": {
+            "Tutophp\\David\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gallula"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.7"
+    }
+}
